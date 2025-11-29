@@ -2,7 +2,7 @@
 // @name         BJTU 教室空闲查询助手
 // @namespace    http://tampermonkey.net/
 // @version      3.4
-// @listense     MIT
+// @license     MIT
 // @description  一个用于北京交通大学教学服务平台 (aa.bjtu.edu.cn) 的油猴脚本。它能在你浏览教室查询页面时，自动抓取所有分页数据，并筛选出当前可用的自习教室。
 // @author       Lxl
 // @match        https://aa.bjtu.edu.cn/classroomtimeholdresult/room_view/*
