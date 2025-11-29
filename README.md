@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-3.3-blue) ![Tampermonkey](https://img.shields.io/badge/Platform-Tampermonkey-green)
 
-一个用于北京交通大学教学服务平台 (aa.bjtu.edu.cn) 的油猴脚本。它能在你浏览教室查询页面时，自动抓取所有分页数据，并智能筛选出当前可用的自习教室。
+一个用于北京交通大学教学服务平台 (aa.bjtu.edu.cn) 的油猴脚本。它能在你浏览教室查询页面时，自动抓取所有分页数据，并筛选出当前可用的自习教室。
 
 ## 主要功能
 
