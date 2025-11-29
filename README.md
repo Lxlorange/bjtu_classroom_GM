@@ -19,7 +19,7 @@
 ## 安装方法
 
 1.  安装浏览器扩展 [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Edge/Firefox)。
-2.  前往 [Greasy Fork](https://greasyfork.org/zh-CN) (推荐) 或 GitHub Release 下载脚本。
+2.  前往 [Greasy Fork - BJTU 教室空闲查询助手](https://greasyfork.org/zh-CN/scripts/557292-bjtu-%E6%95%99%E5%AE%A4%E7%A9%BA%E9%97%B2%E6%9F%A5%E8%AF%A2%E5%8A%A9%E6%89%8B) (推荐) 或 GitHub Release 下载脚本。
 3.  点击“安装”即可。
 
 ## 使用说明
